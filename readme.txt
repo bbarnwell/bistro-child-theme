@@ -29,3 +29,5 @@ License URI: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 III. Documentation 
 
 Theme documentation is available on http://athemes.com/documentation/bistro/
+
+This is a change by the original developer.
