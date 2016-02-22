@@ -158,3 +158,9 @@ This theme, like WordPress, is licensed under the GPL.
 		padding: 0;
 	}
 }
+
+/* customizationation */
+
+#mainnav ul li a:hover {
+    color: #ffffff !important;
+}

@@ -29,5 +29,3 @@ License URI: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 III. Documentation 
 
 Theme documentation is available on http://athemes.com/documentation/bistro/
-
-Let's say this is a change by the original developers to the Child theme - my CSS customization is overwritten
